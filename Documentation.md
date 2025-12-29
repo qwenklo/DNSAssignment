@@ -68,20 +68,15 @@ DNS2021/
 │
 ├── DNSAssignment.py                                 # Main training script ⭐
 ├── model.py                                         # Neural network architecture + sklearn models
-├── dns_model.py                                     # PyTorch DNSModel (alternative)
 ├── dns_preprocess.py                                # PyTorch DataLoader creation ⭐
 ├── convert.py                                       # PyTorch to ONNX conversion ⭐
 ├── onnxtest.py                                      # ONNX model testing ⭐
 ├── preprocess.py                                    # Alternative preprocessing (sklearn-based)
-├── train_mlp.py                                     # Alternative training script
 ├── config.yaml                                      # Training configuration ⭐
-├── DNS-Assignment2025.pth                           # Trained model weights (generated)
-├── DNS-Assignment2025.onnx                          # ONNX model file (generated)
 ├── scaler.pkl                                       # Saved StandardScaler (generated)
 ├── requirements.txt                                 # Python dependencies ⭐
 ├── README.md                                        # Project overview
 ├── README_SETUP.md                                  # Setup instructions
-├── ARCHITECTURE_ANALYSIS.md                         # Architecture justification
 ├── Documentation.md                                 # This file
 ├── wandb/                                           # WandB experiment logs (generated)
 └── models/                                          # Additional model checkpoints (generated)
