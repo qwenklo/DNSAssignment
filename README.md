@@ -199,11 +199,17 @@ The training script provides:
 **Optional:**
 - CUDA-capable GPU for faster training
 
-## License
-
-[Add your license here]
 
 ## Contact
 
-[Add your contact information here]
+**Dataset & Research Institution**
+
+For questions related to the dataset, data collection methodology, or licensing:
+
+**Canadian Institute for Cybersecurity (CIC)**
+University of New Brunswick (UNB)
+Website: https://www.unb.ca/cic
+
+Dataset page: https://www.unb.ca/cic/datasets/dns-2021.html
+
 
