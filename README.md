@@ -225,5 +225,11 @@ Website: https://www.unb.ca/cic
 
 Dataset page: https://www.unb.ca/cic/datasets/dns-2021.html
 
+## Wandb Evaluation
+
+<img width="3160" height="1660" alt="W B Chart 29_12_2025, 3_55_54 pm" src="https://github.com/user-attachments/assets/1619289e-6a2e-4edd-b0dd-465616e57312" />
+
+
+
 
 
